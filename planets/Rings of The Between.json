@@ -3,7 +3,7 @@
 	"name" : "Rings of The Between",
 	"Base": {
 		"groundSize": 100,
-		"surfaceSize": 100,
+		"surfaceSize": 5250,
 		"surfaceGravity": 10,
 		"hasMapMarker": true
 	},
@@ -22,7 +22,8 @@
 					"y": 0,
 					"z": 0
 				},
-				"scale" : 750
+				"keepLoaded": true,
+				"scale" : 75
 			},
 			{
 				"assetBundle": "planets/assets/dreammodrings",
@@ -33,7 +34,8 @@
 					"y": 0,
 					"z": 0
 				},
-				"scale" : 750
+				"keepLoaded": true,
+				"scale" : 75
 			},
 			{
 				"assetBundle": "planets/assets/dreammodrings",
@@ -44,7 +46,8 @@
 					"y": 0,
 					"z": 0
 				},
-				"scale" : 750
+				"keepLoaded": true,
+				"scale" : 75
 			}
 		]
 	}
